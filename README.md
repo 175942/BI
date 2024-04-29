@@ -1,4 +1,5 @@
 https://app.powerbi.com/groups/me/reports/da4c1c8e-834f-45c5-9fde-cfe8c074ce49/ReportSection?experience=power-bi
+
 Dashboard de LOGISTICA que mede a performance de viagem.
 Esse Dashboard ajudou os gestores de logistica a identificarem os principais gargalos quando o assunto é performance de viagem.
 Possibilitando entender qual rota é mais ou menos aproveitada. qual produto é mais transportado em questão de volume, viagens e montante.
